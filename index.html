@@ -3,8 +3,6 @@ layout: home
 title: DYNOMO
 subtitle: Dynamic Observation Modeling of digital constructions
 ---
-test test
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,7 +11,6 @@ test test
     <title>3D Construction Models</title>
     <style>
         body {
-            text-align: center;
             font-family: Arial, sans-serif;
         }
 
@@ -24,8 +21,16 @@ test test
             margin: 0 auto;
         }
 
+        .half-width-image {
+            width: 50%;
+            max-width: 400px;
+            display: block;
+            margin: 0 auto;
+        }
+
         p {
-            text-align: left;
+            text-align: justify;
+            margin: 0 20px;
         }
 
         strong {
@@ -34,10 +39,15 @@ test test
     </style>
 </head>
 <body>
-    <img src="/assets/img/3.png" alt="Construction Image" class="full-width-image">
+    <div style="text-align: center;">
+        <img src="assets/img/3.PNG" alt="Construction Image" class="full-width-image">
+    </div>
     <p>
         <strong>3D digital construction models</strong> are a cornerstone of digitally twinning built environments as they define the components within the structure, representation, and functionality to reflect real-world behavior in a digital environment. Conventional design models restrict the representation of components, which ensures proper functionality but has issues with reality approximation and requires immense human effort for their creation. Alternatively, sensory observations (i.e., close-range point clouds, imagery) provide a much more detailed representation of the construction but lack functionality and structure. This limitation is due to the lack of modeling mechanisms, not the quality of the used observations. Evidence exists that such functionality and structure can be directly derived from observations through neural networks without human intervention. This concept of '<strong>observation modeling</strong>' has immense potential but does not currently exist in the construction domain.
     </p>
+    <div style="text-align: center;">
+        <img src="assets/img/architecture.PNG" alt="Second Construction Image" class="half-width-image">
+    </div>
     <p>
         <strong>DYNOMO</strong> will innovate <strong>3D construction models</strong> by directly modeling the observations instead of using design models. It has two groundbreaking features: (1) Component representations are formulated as Implicit Functions, which allows functionality (e.g., object changes or finite element discretization) to be expressed as dynamic solutions rather than through heuristics. (2) The observations and models are encoded in Linked Data Cubes, which allow for homogenized and decentralized scene interpretation through Linked Fusion—a novel technique that links neural networks instead of integrating them.
     </p>
