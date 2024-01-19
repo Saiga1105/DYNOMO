@@ -2,7 +2,7 @@
 layout: post
 title: WP4 Boundary, Volume and Observation Rendering      
 subtitle: solving for digital construction functionalities
-cover-img: /assets/img/rendering_cover.png
+cover-img: /assets/img/rendering_cover.PNG
 thumbnail-img: /assets/img/rendering_thumb.png
 share-img: 
 tags:
