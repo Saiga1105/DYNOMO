@@ -33,7 +33,7 @@ These functionalities, including structural analysis and energy performance, are
 
  - **Observation Rendering**: By integrating initial observations from WP1 with the learned MLPs from WP3, we’ll be able to alter observations based on model changes. Techniques like raymarching and Differentiable Rendering will be employed to work directly on the WP3 MLPs. If necessary, we’ll separate the texture and geometry rendering to ensure compatibility.
 
- ## DEMONSTRATORS
+## DEMONSTRATORS
  DYNOMO's WP3 and WP4 functionalities will be showcased through three types of demonstrators, pivotal for demonstrating the project's valorization potential and fostering industry adoption. These demonstrators, grounded in WP1's close-range observations of realistic test cases, aim to maximize impact by utilizing the Principal Investigator's (PI) extensive industry connections to seek partnerships and potential spin-out funding.
 
  - **Scene Completion for BIM/GIS**: The emphasis will be on state-of-the-art (SOTA) completion challenges, particularly in environments with movable objects and ongoing operations – areas where DYNOMO technologies can provide significant benefits.
