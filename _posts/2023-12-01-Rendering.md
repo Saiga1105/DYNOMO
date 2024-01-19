@@ -1,14 +1,14 @@
 ---
 layout: post
-title: WP3 Implicit Neural Representations
-subtitle: Redefining close-range observations
+title: WP4 Boundary, Volume and Observation Rendering      
+subtitle: solving for digital construction functionalities
 cover-img: /assets/img/rendering_cover.png
 thumbnail-img: /assets/img/rendering_thumb.png
 share-img: 
 tags:
 ---
 
-In the current landscape of digital modeling, common behaviors like inpainting, deformations, transformations, and interactions are typically derived from explicitly defined heuristics that are integrated into the design models. DYNOMO, however, proposes a significant shift in this approach by utilizing **Implicit Neural Representations (INRs)**. Through machine learning, these INRs can directly decode such behaviors, offering a more dynamic and intuitive modeling process.
+In the current landscape of digital modeling, common behaviors like **inpainting, deformations, transformations, and interactions** are typically derived from explicitly defined heuristics that are integrated into the design models. DYNOMO, however, proposes a significant shift in this approach by utilizing **Implicit Neural Representations (INRs)**. Through machine learning, these INRs can directly decode such behaviors, offering a more dynamic and intuitive modeling process.
 
 One of the most promising aspects of this approach is the potential compatibility with various design editing tools used in **Building Information Modeling (BIM), Finite Element Model (FEM) meshes, or Geographical Information Systems (GIS)**. The INRs can learn design representations, making them seamlessly compatible with these tools. This is a game-changer, as it not only simplifies the design process but also enhances the adaptability of the models.
 
