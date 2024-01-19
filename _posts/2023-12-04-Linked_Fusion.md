@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Linked Fusion
+title: WP1 Linked Fusion
 subtitle: Interpretation of Observations
 cover-img: /assets/img/segmentation_cover.PNG
-thumbnail-img: /assets/img/segmentation_thumb.PNG
+thumbnail-img: /assets/img/segmentation_thumb.jpg
 share-img: 
 tags:
 ---
