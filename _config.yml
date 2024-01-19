@@ -13,7 +13,7 @@
 title: DYNOMO
 
 # Your name to show in the footer
-author: Dr. ing. Maarten Bassier
+author: Prof. Dr. ing. Maarten Bassier
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -21,9 +21,7 @@ author: Dr. ing. Maarten Bassier
 
 navbar-links:
   CV: "aboutme"
-  Projects:
-    - Scan-to-BIM: "https://beautifuljekyll.com"
-    - Construction Site Monitoring: "https://www.markdowntutorial.com/"
+  Projects: "projects"
   Lab: "https://iiw.kuleuven.be/onderzoek/geomatics"
 
 ################
